@@ -9,3 +9,4 @@ Browser("OPUS Online").Page("OPUS Online").Sync
 Browser("OPUS Online").CloseAllTabs @@ hightlight id_;_68972_;_script infofile_;_ZIP::ssf11.xml_;_
 Browser("DOC Web Apps").Page("DOC Web Apps").Sync
 Browser("DOC Web Apps").CloseAllTabs
+'change to this script
