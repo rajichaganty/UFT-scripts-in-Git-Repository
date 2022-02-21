@@ -11,5 +11,5 @@ Browser("The DPS Health Services").Page("The DPS Health Services_2").WebButton("
 Browser("The DPS Health Services").Page("The DPS Health Services_2").Link("Logout").Click @@ script infofile_;_ZIP::ssf37.xml_;_
 Browser("The DPS Health Services").Page("The DPS Health Services_2").Sync
 Browser("The DPS Health Services").CloseAllTabs @@ hightlight id_;_525990_;_script infofile_;_ZIP::ssf38.xml_;_
- @@ hightlight id_;_10358300_;_script infofile_;_ZIP::ssf13.xml_;_
+'test @@ hightlight id_;_10358300_;_script infofile_;_ZIP::ssf13.xml_;_
  @@ hightlight id_;_263820_;_script infofile_;_ZIP::ssf27.xml_;_
